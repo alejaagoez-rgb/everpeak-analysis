@@ -1,1 +1,1 @@
-# everpeak-analysis
+El objetivo de este análisis es evaluar la relación entre la movilidad urbana y la productividad económica de las principales ciudades del mundo. Para ello, se integran datos del TomTom Traffic Index, que describen los niveles de congestión y los tiempos de viaje, con indicadores económicos de la OECD, como el PIB per cápita, la tasa de desempleo y la población
